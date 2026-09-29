@@ -1,4 +1,4 @@
-# code for yoga plan for 2025
+# code for yoga plan for 2026
 # version 2
 
 def soultrek_2026_plan():
